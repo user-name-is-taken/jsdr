@@ -1,2 +1,2 @@
 # jsdr
-graphing rtl-sdr data with JavaScript libraries
+graphing rtl-sdr data with JavaScript libraries.
